@@ -1,4 +1,4 @@
-body
+cd.body
 {
     color: #333;
     text-align: center;
@@ -12,7 +12,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid darkgreen;
     margin: 0 auto;
 }
 
